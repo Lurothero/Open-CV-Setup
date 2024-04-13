@@ -10,7 +10,7 @@ int main(){
     //Testing if Open CV is installed
     std::cout << CV_VERSION << std::endl;
 
-
+    //basic image processing
     
   
     return 0;
