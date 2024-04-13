@@ -1,0 +1,10 @@
+^C:\USERS\RENEA\SOURCE\REPOS\OPEN CV SETUP\BUILD\CMAKEFILES\CE33D73D944B4E09EA6784CCF0989B0D\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/renea/source/repos/Open CV Setup" "-BC:/Users/renea/source/repos/Open CV Setup/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/renea/source/repos/Open CV Setup/build/Apple.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

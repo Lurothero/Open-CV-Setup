@@ -1,0 +1,10 @@
+^C:\USERS\RENEA\SOURCE\REPOS\OPEN CV SETUP\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/renea/source/repos/Open CV Setup" "-BC:/Users/renea/source/repos/Open CV Setup/build" --check-stamp-file "C:/Users/renea/source/repos/Open CV Setup/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
