@@ -25,7 +25,7 @@ int Run()
     }
 
     // Create window
-    namedWindow("Muffet",WINDOW_KEEPRATIO); // To pass the image to a window it MUST BE THE SAME NAME
+    namedWindow("Muffet",WINDOW_AUTOSIZE); // To pass the image to a window it MUST BE THE SAME NAME
     imshow("Muffet", img);
 
     waitKey(0);
