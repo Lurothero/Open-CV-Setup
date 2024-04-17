@@ -12,7 +12,6 @@ C:/Program Files/CMake/share/cmake-3.29/Modules/Compiler/CMakeCommonCompilerMacr
 C:/Program Files/CMake/share/cmake-3.29/Modules/Compiler/MSVC-C.cmake
 C:/Program Files/CMake/share/cmake-3.29/Modules/Compiler/MSVC-CXX.cmake
 C:/Program Files/CMake/share/cmake-3.29/Modules/Compiler/MSVC.cmake
-C:/Program Files/CMake/share/cmake-3.29/Modules/FeatureSummary.cmake
 C:/Program Files/CMake/share/cmake-3.29/Modules/FindPackageHandleStandardArgs.cmake
 C:/Program Files/CMake/share/cmake-3.29/Modules/FindPackageMessage.cmake
 C:/Program Files/CMake/share/cmake-3.29/Modules/Platform/Windows-Initialize.cmake
@@ -21,8 +20,6 @@ C:/Program Files/CMake/share/cmake-3.29/Modules/Platform/Windows-MSVC-CXX.cmake
 C:/Program Files/CMake/share/cmake-3.29/Modules/Platform/Windows-MSVC.cmake
 C:/Program Files/CMake/share/cmake-3.29/Modules/Platform/Windows.cmake
 C:/Program Files/CMake/share/cmake-3.29/Modules/Platform/WindowsPaths.cmake
-C:/SDL2/cmake/sdl2-config-version.cmake
-C:/SDL2/cmake/sdl2-config.cmake
 C:/Users/renea/source/repos/Open CV Setup/CMakeLists.txt
 C:/Users/renea/source/repos/Open CV Setup/build/CMakeFiles/3.29.2/CMakeCCompiler.cmake
 C:/Users/renea/source/repos/Open CV Setup/build/CMakeFiles/3.29.2/CMakeCXXCompiler.cmake
